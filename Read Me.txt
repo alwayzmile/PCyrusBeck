@@ -1,0 +1,2 @@
+The source code is created in Processing programming language (https://processing.org/) in Java mode, 
+the default mode in Processing Development Environment. The IDE version used is Processing 2.2.1.
